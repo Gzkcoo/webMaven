@@ -10,7 +10,7 @@ import java.io.InputStream;
 
 //sqlSessionFactory --> sqlSession
 public class MybatisUtils {
-
+//hello
     private static SqlSessionFactory sqlSessionFactory;
 
     static {
